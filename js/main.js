@@ -10,7 +10,7 @@ const download = document.querySelector('#download');
 
 download.addEventListener('click', () => {
   // Define the file URL and name
-  const fileUrl = '../files/catalogo.pdf';
+  const fileUrl = 'https://suiseiperu.github.io/redes/files/catalogo.pdf';
   const fileName = 'suisei-catalogo.pdf';
 
   // Create an anchor element
